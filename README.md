@@ -1,7 +1,8 @@
 # gfg_test
 
-A new Flutter project.
+A flutter app to show the implementation of Date, Time and Date/Time Picker in flutter.
 
+!(Image)[assets/img.png]
 ## Getting Started
 
 This project is a starting point for a Flutter application.
