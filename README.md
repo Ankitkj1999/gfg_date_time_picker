@@ -2,7 +2,7 @@
 
 A flutter app to show the implementation of Date, Time and Date/Time Picker in flutter.
 
-!(Image)[assets/img.png]
+![Image](assets/image.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
