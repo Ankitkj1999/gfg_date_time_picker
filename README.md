@@ -2,7 +2,7 @@
 
 A flutter app to show the implementation of Date, Time and Date/Time Picker in flutter.
 
-!(Image)[assets/img.png]
+!(Image)[https://github.com/Ankitkj1999/gfg_date_time_picker/blob/GFG/ezgif.com-gif-maker%20(2).gif]
 ## Getting Started
 
 This project is a starting point for a Flutter application.
